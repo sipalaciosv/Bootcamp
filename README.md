@@ -29,13 +29,13 @@ Cada integrante debe crear su propia rama para trabajar en una sección designad
   Creó el proyecto base con estructura de carpetas, integró Bootstrap y CSS personalizado, y desarrolló la Sección 1 en `index.html`.
 
 - **Marco Casto:**  
-  Modificó y completó la Sección 2 en `index.html`, agregando contenido adicional.
+  Cambios 
 
 - **Angela Bravo:**  
-  Realizó mejoras en la Sección 3 y actualizó el archivo de estilos.
+  Cambios
 
-  - **Christopher Ibañez:**  
-  Realizó mejoras en la Sección 3 y actualizó el archivo de estilos.
+- **Christopher Ibañez:**  
+  Cambios
 
 
 
